@@ -1,7 +1,7 @@
 const router = require("express").Router();
 
 const { notes } = require('../../db/db.json');
-const newNote = require('..///lin/animals');
+const newNote = require('../../lib/notes.js');
 
 router.get('/notes', (req, res) => {
     let savedNote = notes;
