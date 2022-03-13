@@ -1,21 +1,44 @@
+
 # NoteTaker-ByMakWils
+https://polar-citadel-62240.herokuapp.com/notes
 
-## User Story
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
-## Acceptance Criteria 
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
-WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+## Table-of-Contents 
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Description
+
+This applications allows you to write notes and delete them as you please. My motive for this project was to apply my learning of Express.js and improve my coding set. This project was made to put my previously aquired skills in works with Express.js. During this project I learned alot, including deploying a site to Heroku,how to apply express.js, GET and POST routes and more. 
+
+## Installation
+
+This project does not need to be installed, you can access the project at https://polar-citadel-62240.herokuapp.com/notes 
+
+## Usage
+
+To use this application, click the plus symbol in the corner to start a new note. Fill in a title and text, to complete your note click the saveicon in the corner next to the plus (this symbol will only appear when a title and text are entered). This application also allows you to delete note. To delete a note click the trash can icon next the note title you want to delete.
+
+## Questions
+
+For questions please contact me at: 
+
+[GitHub](https://github.com/Kaylaanngrace)
+
+[Email: Kaylaanngrace@gmail.com](mailto:Kaylaanngrace@gmail.com)
+
+## Credits
+
+README file generated with my previous project:
+ https://github.com/kaylaanngrace/Professional-READMEgenerator-ByMakWils
+
+## Contributions
+
+Made with ❤️ by Makayla W.
+- not accepting contributions at this time. Thank you :)
