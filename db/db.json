@@ -1,24 +1,14 @@
 {
     "notes": [
         {
-            "title": "Test Note",
-            "text": "First Test Note.",
-            "id": "0"
+            "title": "Note Taker Welcomes you :)",
+            "text": "With Note Taker, you can ADD the notes you desire. ADD a note by clicking the PENCIL ICON. DON'T FORGET to click the SAVE ICON to ensure your note is saved.",
+            "id": 0
         },
         {
-            "title": "Second Test",
-            "text": "Second Test Note.",
-            "id": "1"
-        },
-        {
-            "title": "Third Test",
-            "text": "Third Test Note.",
-            "id": "2"
-        },
-        {
-            "title": "Fourth Test",
-            "text": "Fourth Test Note.",
-            "id": "3"
+            "title": "DELETE a note.",
+            "text": "Note Taker also allows you to DELETE any notes you don't want. DELETE a note ny clicking the TRASH ICON next to the note you wish to be DELETED.",
+            "id": 1
         }
     ]
 }
