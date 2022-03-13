@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "file-system": "^1.2.2",
+    "inquirer": "^8.2.1"
   },
   "directories": {
     "lib": "lib"
